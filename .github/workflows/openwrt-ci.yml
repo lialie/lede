@@ -548,7 +548,7 @@ jobs:
             CONFIG_UnblockNeteaseMusicGo_INCLUDE_GOPROXY=y
             CONFIG_OPENLDAP_DEBUG=y
             CONFIG_PACKAGE_amule=y
-            CONFIG_PACKAGE_v2ray=y
+            CONFIG_PACKAGE_v2ray=n
             CONFIG_V2RAY_EXCLUDE_V2CTL=y
             CONFIG_V2RAY_EXCLUDE_ASSETS=y
             CONFIG_V2RAY_COMPRESS_UPX=y
