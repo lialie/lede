@@ -471,7 +471,6 @@ jobs:
             CONFIG_PACKAGE_luci-app-ttyd=y
             CONFIG_PACKAGE_luci-app-unblockmusic=y
             CONFIG_UnblockNeteaseMusic_Go=y
-            CONFIG_UnblockNeteaseMusic_NodeJS=y
             CONFIG_PACKAGE_luci-app-upnp=y
             CONFIG_PACKAGE_luci-app-verysync=y
             CONFIG_PACKAGE_luci-app-vlmcsd=y
@@ -554,9 +553,9 @@ jobs:
             CONFIG_V2RAY_COMPRESS_UPX=y
             CONFIG_PACKAGE_v2ray-plugin=y
             CONFIG_v2ray-plugin_INCLUDE_GOPROXY=y
-            CONFIG_PACKAGE_xray=y
-            CONFIG_XRAY_EXCLUDE_ASSETS=y
-            CONFIG_XRAY_COMPRESS_UPX=y
+            #CONFIG_PACKAGE_xray=y
+            #CONFIG_XRAY_EXCLUDE_ASSETS=y
+            #CONFIG_XRAY_COMPRESS_UPX=y
             CONFIG_PACKAGE_bcp38=y
             CONFIG_PACKAGE_ip-full=y
             CONFIG_PACKAGE_tc=y
